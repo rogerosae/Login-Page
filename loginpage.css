@@ -1,0 +1,75 @@
+button {
+    background-color:#076CCA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:550px;
+    margin-top:40px;
+    
+  }
+
+  .box {
+    border-radius: ;
+    background-color: white;
+    width: 550px;
+    height:600px;
+    padding: 40px;
+    border: 0px solid gray;
+    margin: auto;
+    margin-top:50px;
+
+  }
+
+  input[type=text]{
+    display: inline-block;
+    width:100%;
+    height:60px;
+    outline:none;
+    border:none;
+    background-color: #F3F3F3;
+    padding-left: 15px;
+    
+
+  }
+  input[type=password]{
+    display: inline-block;
+    width:100%;
+    height:60px;
+    outline:none;
+    border:none;
+    background-color: #F3F3F3;
+    margin-top: 20px;
+    padding-left: 15px;
+  }
+
+
+
+  #svg1{
+  text-align:center;
+  }
+
+  p > a{
+    color: #076CCA;
+    text-decoration: none;
+
+  }
+
+  input#Email{
+    background-image: url(mdi_email.svg);
+    background-repeat: no-repeat;
+    background-position-x: 98%;
+    background-position-y: 45%;
+  }
+
+  input#Password{
+    background-image: url(material-symbols_lock.svg);
+    background-repeat: no-repeat;
+    background-position-x: 98%;
+    background-position-y: 45%;
+  }
+ 
+
